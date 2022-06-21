@@ -1,3 +1,2 @@
 # test
-Testing out
-This is an edited readme
+This is a test of using Colabs and Github together
